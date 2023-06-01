@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte da disciplina de Computação Gráfica.
 * Número de matrícula: 201402268
 
 # Descrição do projeto
-O projeto consiste em criar uma experiência básica de interação com o usuário por meio de comandos no teclado para simular o jogo Tetris. O jogo é exibido em uma janela utilizando as bibliotecas PyOpenGL e PyGame.
+O projeto consiste em aplicar conceitos de Computação Gráfica utilizando as bibliotecas PyOpenGL e PyGame.
 
 # Funcionalidades
 O projeto inclui as seguintes funcionalidades:

@@ -1,3 +1,5 @@
+# CRIE UMA EXPERIÊNCIA BÁSICA DE INTERAÇÃO COM O USUÁRIO POR COMANDOS NO TECLADO PARA SIMULAR UM JOGO BEM SIMPLES.
+
 from random import randrange as rand
 import pygame, sys
 
